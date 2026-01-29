@@ -198,7 +198,7 @@ This project demonstrates a complete data analytics lifecycle, combining technic
 
 📬 Contact
 
-Name:Ram HariPrasad
+Name: Aravind kumar
 Role: Aspiring Data Analyst
-LinkedIn:https://www.linkedin.com/in/hariprasad-ram-933152358/
+LinkedIn:
 GitHub: This repository
